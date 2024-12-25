@@ -8,7 +8,6 @@ import Deposit from "./Components/Deposit";
 import Withdrawn from "./Components/Withdrawn";
 import Auth from "./Components/Auth";
 import ProtectedRoute from "./Components/ProtectedRoute";
-import Product from "./Components/Product";
 
 function App() {
   const dispatch = useDispatch();
